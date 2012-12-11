@@ -1,4 +1,4 @@
-Print-Story-Cards-with-Mods-App
+Print-Story-Cards-with-Mods-Apps
 ================================
 
 This is a set of three modified "Print Story Cards" apps, originally a part of the Rally App Catalog, which:
@@ -7,4 +7,4 @@ This is a set of three modified "Print Story Cards" apps, originally a part of t
 - prints all backlog story cards (no iteration or release assignments).
 
 Screenshot:<P>
-![Alt text](https://github.com/jkrooswyk/Print-Story-Cards-with-Tasks-App/raw/master/Screenshot_PrintStoryCardswithTasks.png)
+![Alt text](https://github.com/jkrooswyk/Print-Story-Cards-with-Mods-Apps/raw/master/Screenshot_PrintStoryCardswithTasks.png)
